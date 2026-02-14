@@ -1,1 +1,3 @@
-print("Ahaan")
+a=2
+a*2
+a**3
