@@ -2,7 +2,7 @@ import turtle
 import colorsys
 
 t = turtle.Turtle()
-t.speed(-1000)
+t.speed(-100)
 turtle.bgcolor("black")
 
 h = 0
